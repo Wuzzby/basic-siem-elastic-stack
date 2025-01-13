@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to build a basic Security Information and Event Management (SIEM) system using the Elastic Stack. It centralizes logs from a Linux server and a Windows VM, enabling real-time monitoring, visualization, and alerting.
 
-![System Architecture](screenshots/architecture-diagram.png)
+System Architecture:
 
 ## Tools and Technologies
 - **Elastic Stack**:
