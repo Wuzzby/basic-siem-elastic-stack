@@ -56,7 +56,7 @@ Empty Replies from Elasticsearch:
 
 ## Medium Write-Up
 For a detailed walkthrough, visit my Medium article:
-[Building a Basic SIEM with the Elastic Stack](
+[Building a Basic SIEM with the Elastic Stack](https://medium.com/@SamAchek/building-a-basic-siem-with-the-elastic-stack-a-step-by-setp-guide-06840fe09aa7)
 
 
 ## License 
