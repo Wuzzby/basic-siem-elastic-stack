@@ -3,7 +3,7 @@
 ## Overview
 This project demonstrates how to build a basic Security Information and Event Management (SIEM) system using the Elastic Stack. It centralizes logs from a Linux server and a Windows VM, enabling real-time monitoring, visualization, and alerting.
 
-System Architecture:
+## System Architecture:
 
 ## Tools and Technologies
 - **Elastic Stack**:
@@ -29,17 +29,17 @@ System Architecture:
 - Install Kiabana and verify:
      curl -X GET "http://127.0.0.1:9200"
 
-2. Configure Filebeat
+### 2. Configure Filebeat
 	Install Filebeat on Ubuntu Server.
 	Configure filebeat.yml (see filebeat.yml).
 
 
-3. Configure Winlogbeat
+### 3. Configure Winlogbeat
 	Install Winlogbeat on Windows VM.
 	Configure winlogbeat.yml (see winlogbeat.yml).
 
 
-4. Visualize Logs in Kibana
+### 4. Visualize Logs in Kibana
 	Build visualizations and dashboards.
 
 ## Challenges and Solutions:
